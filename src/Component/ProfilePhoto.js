@@ -1,6 +1,6 @@
 import React from 'react';
 
-
+//create a functional component that returns a photo of my profile.
 const Profile = () => {
     return (
       <>
