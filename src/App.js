@@ -1,9 +1,10 @@
 import React from 'react';
+//Import profile components into App.js and use them
 import Profile from './Component/ProfilePhoto';
 import Name from './Component/FullName';
 import Adress from './Component/Adress';
 
-//Import profile components into App.js and use them.
+
 function App() {
     return (
       <div className="App">
