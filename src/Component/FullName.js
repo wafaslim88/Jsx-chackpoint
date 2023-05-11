@@ -2,7 +2,7 @@
 import React from "react";
 
 
-
+// create a functional component that returns my full name
 function Name () {
    
       let firstName = "Wafa";
